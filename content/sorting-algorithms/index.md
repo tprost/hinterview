@@ -6,3 +6,5 @@ weight = 0
 +++
 ### Sorting Algorithms
 There are lots of sorting algorithms.
+
+$$ x = x + 1 $$
